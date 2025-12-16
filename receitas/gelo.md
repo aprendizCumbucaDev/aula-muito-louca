@@ -2,4 +2,6 @@
 
 ## Ingredientes
 
+- Água
+
 ## Mode de Preparo
