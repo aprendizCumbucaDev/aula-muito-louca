@@ -1,5 +1,6 @@
 # Aula Muito Louca
 Uma aula cheia de ~~aventuras~~ emoções - Um reposiório para aprender sobre **markdown**.
+Registrar receitas ao vivo!
 
 [GitHub Pages](https://pages.github.com/)
 
