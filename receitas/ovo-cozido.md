@@ -4,6 +4,7 @@
 
 - 1 ovo
 - 500ml de água
+
 ## Modo de preparo
 
 1. Retire o ovo da geladeira alguns minutos antes de colocar para cozinhar — isso evita que a casca rache com o choque térmico.
