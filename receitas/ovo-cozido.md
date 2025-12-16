@@ -20,3 +20,5 @@
 4. Com uma colher, tire o ovo da panela e mergulhe numa tigela com água e gelo — além de cessar o cozimento, deixa o ovo morno e mais fácil para descascar.
 
 5. Para descascar, role delicadamente o ovo sobre a tábua e vá puxando os pedacinhos de casca. Passe novamente o ovo na tigela com água para descartar qualquer casquinha que tenha sobrado. Sirva a seguir.
+
+![foto de um ovo cozido com gema dura](/imagens/ovo-cozido.png)
