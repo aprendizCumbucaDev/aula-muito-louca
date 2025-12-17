@@ -4,6 +4,6 @@
 
 - Água
 
-## Mode de Preparo
+## Modo de Preparo
 
 - Colocar no freezer
